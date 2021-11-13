@@ -2,7 +2,7 @@
 
 Find the language you would like to translate and replace what is in the quotes with the translation.
 
-##Example
+## Example
 
 English (en-US)\
 ADD_NEW_WALLET: "Add New Wallet"
