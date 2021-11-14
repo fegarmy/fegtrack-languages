@@ -1,5 +1,5 @@
 const LABELS = {
-  ADD_NEW_WALLET: "Добавить кошелек",
+  ADD_NEW_WALLET: "Добавить кошелёк",
   WALLET_NAME: "Название кошелька",
   WALLET_ADDRESS: "Адрес кошелька",
   CANCEL: "Отменить",
@@ -14,8 +14,8 @@ const LABELS = {
   BLUE: "Синяя",
   YELLOW: "Желтая",
   GREEN: "Зелёная",
-  REFLECTIONS: "Бонусы фег",
-  EDIT_REFLECTIONS: "Исправить бонусы фег",
+  REFLECTIONS: "Бонусы",
+  EDIT_REFLECTIONS: "Исправить бонусы",
   EDIT_STAKING_REFLECTIONS: "Исправить бонусы стейкинга",
   STAKED: "Добавлено в стейкинг",
   REWARDS_FROM: "Считать бонусы от",
@@ -25,9 +25,9 @@ const LABELS = {
   LANGUAGE: "Язык",
   SINCE: "От",
   POOL_SHARE: "Часть в общем пуле",
-  UNCLAIMED: "Накопленно (не затребовано)",
+  UNCLAIMED: "Накопленно",
   COPY_NOTICE: "Скопировано",
-  WALLET_DESIGN: "Wallet Design",
+  WALLET_DESIGN: "Обложка кошелька",
 }
 
 export {LABELS};
