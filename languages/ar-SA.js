@@ -27,7 +27,7 @@ const LABELS = {
   POOL_SHARE: "حصة الحوض",
   UNCLAIMED: "لم يتم تجميعه",
   COPY_NOTICE: "تم نسخ عنوان المحفظة",
-  WALLET_DESIGN: "Wallet Design",
+  WALLET_DESIGN: "تصميم المحفظة",
 }
 
 export {LABELS};
