@@ -27,7 +27,7 @@ const LABELS = {
   POOL_SHARE: "Μερίδιο κοινού ταμείου",
   UNCLAIMED: " Αδιεκδίκητα ",
   COPY_NOTICE: "Η διεύθυνση πορτοφολιού αποθηκεύτηκε στο πρόχειρο",
-  WALLET_DESIGN: "Wallet Design",
+  WALLET_DESIGN: "Σχεδίαση πορτοφολιού",
 }
 
 export {LABELS};
