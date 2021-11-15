@@ -14,8 +14,8 @@ const LABELS = {
   BLUE: "Синя",
   YELLOW: "Жовта",
   GREEN: "Зелена",
-  REFLECTIONS: "Бонуси фег",
-  EDIT_REFLECTIONS: "Налаштувати бонуси фег",
+  REFLECTIONS: "Бонуси",
+  EDIT_REFLECTIONS: "Налаштувати бонуси",
   EDIT_STAKING_REFLECTIONS: "Налаштувати бонуси стейкінга",
   STAKED: "Додано у стейкінг",
   REWARDS_FROM: "Рахувати бонуси від",
@@ -25,9 +25,9 @@ const LABELS = {
   LANGUAGE: "Обрати мову",
   SINCE: "Від",
   POOL_SHARE: "Частка у загальному пулі",
-  UNCLAIMED: "Накоплених (не затребуваних)",
+  UNCLAIMED: "Накоплених",
   COPY_NOTICE: "Зкопійовано",
-  WALLET_DESIGN: "Wallet Design",
+  WALLET_DESIGN: "Обгортка гаманця",
 }
 
 export {LABELS};
