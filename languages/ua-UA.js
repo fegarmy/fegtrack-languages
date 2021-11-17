@@ -25,7 +25,7 @@ const LABELS = {
   LANGUAGE: "Обрати мову",
   SINCE: "Від",
   POOL_SHARE: "Частка у загальному пулі",
-  UNCLAIMED: "Накоплених",
+  UNCLAIMED: "Накопичено",
   COPY_NOTICE: "Зкопійовано",
   WALLET_DESIGN: "Обгортка гаманця",
 }
