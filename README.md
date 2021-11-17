@@ -25,6 +25,7 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | en-ZA | English, South Africa | |
 | es-ES | Spanish, Spain | Done |
 | es-MX | Spanish, Mexico | Done |
+| fa-IR | Persian | Done |
 | fi-FI | Finnish, Finland | |
 | fr-CA | French, Canada | |
 | fr-FR | French, France | Done |
