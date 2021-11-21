@@ -23,6 +23,7 @@ const LABELS = {
   SETTINGS: "Cài đặt",
   THEME: "Chủ đề",
   LANGUAGE: "Ngôn ngữ",
+  SINCE: "Since",
   POOL_SHARE: "Tỷ lệ chiếm hữu",
   UNCLAIMED: "Chưa nhận",
   COPY_NOTICE: "Đã sao chép địa chỉ ví vào bộ nhớ tạm",

@@ -23,6 +23,7 @@ const LABELS = {
   SETTINGS: "Settings",
   THEME: "Theme",
   LANGUAGE: "Language",
+  SINCE: "Desde",
   POOL_SHARE: "Pool Share",
   UNCLAIMED: "Unclaimed",
   COPY_NOTICE: "Wallet address copied to clipboard",

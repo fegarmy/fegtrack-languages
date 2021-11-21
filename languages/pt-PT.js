@@ -24,6 +24,7 @@ const LABELS = {
   SETTINGS: "Definições",
   THEME: "Tema",
   LANGUAGE: "Idioma",
+  SINCE: "Since",
   POOL_SHARE: "Pool Share",
   UNCLAIMED: "Não reclamado",
   COPY_NOTICE: "Endereço da carteira copiado para a área de transferência",

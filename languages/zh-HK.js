@@ -24,6 +24,7 @@ const LABELS = {
   THEME: "Theme",
   LANGUAGE: "Language",
   POOL_SHARE: "Pool Share",
+  SINCE: "Since",
   UNCLAIMED: "Unclaimed",
   COPY_NOTICE: "Wallet address copied to clipboard",
   WALLET_DESIGN: "Wallet Design",

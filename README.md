@@ -16,7 +16,7 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | ar-SA | Arabic, Saudi Arabia | Done |
 | cs-CZ | Czech, Czech Republic | |
 | da-DK | Danish, Denmark | |
-| de-DE | German, Germany | Needs Update |
+| de-DE | German, Germany | Done |
 | el-GR | Modern Greek, Greece | Done |
 | en-AU | English, Australia | |
 | en-GB | English, United Kingdom | |
@@ -28,7 +28,7 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | fa-IR | Persian | Needs Update |
 | fi-FI | Finnish, Finland | |
 | fr-CA | French, Canada | |
-| fr-FR | French, France | Needs Update |
+| fr-FR | French, France | Done |
 | he-IL | Hebrew, Israel | |
 | hi-IN | Hindi, India | |
 | hu-HU | Hungarian, Hungary | |
