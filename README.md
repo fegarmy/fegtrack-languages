@@ -14,8 +14,8 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | Language Code | Language/Dialect | Status |
 | ------------- | -------- | ------ |
 | ar-SA | Arabic, Saudi Arabia | Done |
-| cs-CZ | Czech, Czech Republic | |
-| da-DK | Danish, Denmark | |
+| cs-CZ | Czech, Czech Republic | Done |
+| da-DK | Danish, Denmark | Done |
 | de-DE | German, Germany | Done |
 | el-GR | Modern Greek, Greece | Done |
 | en-AU | English, Australia | |
@@ -23,7 +23,7 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | en-IE | English, Ireland | |
 | en-US | English, United States | Done |
 | en-ZA | English, South Africa | |
-| es-ES | Spanish, Spain | Needs Update |
+| es-ES | Spanish, Spain | Done |
 | es-MX | Spanish, Mexico | Needs Update |
 | fa-IR | Persian | Needs Update |
 | fi-FI | Finnish, Finland | |
@@ -33,19 +33,19 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | hi-IN | Hindi, India | |
 | hu-HU | Hungarian, Hungary | |
 | id-ID | Indonesian, Indonesia | |
-| it-IT | Italian, Italy | Needs Update |
+| it-IT | Italian, Italy | Done |
 | ja-JP | Japanese, Japan | Needs Update |
 | ja-ID | Javanese, Idonesia | done |
 | ko-KR | Korean, Republic of Korea | Needs Update |
 | ku-SR | Kurdish, Sorani | Done |
 | nl-BE | Dutch, Belgium | Needs Update |
-| nl-NL | Dutch, Netherlands | Needs Update |
-| no-NO | Norwegian, Norway | |
+| nl-NL | Dutch, Netherlands | Done |
+| no-NO | Norwegian, Norway | Done |
 | ml-IN | Malayalam, India | Done |
-| pl-PL | Polish, Poland | |
+| pl-PL | Polish, Poland | Done |
 | pt-BR | Portuguese, Brazil | Done |
-| pt-PT | Portuguese, Portugal | |
-| ro-RO | Romanian, Romania | Needs Update |
+| pt-PT | Portuguese, Portugal | Done |
+| ro-RO | Romanian, Romania | Done |
 | ru-RU | Russian, Russian Federation | Done |
 | sk-SK | Slovak, Slovakia | Done |
 | sv-SE | Swedish, Sweden | Done |
