@@ -16,7 +16,7 @@ const LABELS = {
   GREEN: "Зелёная",
   REFLECTIONS: "Вознаграждения",
   EDIT_REFLECTIONS: "Исправить вознаграждения",
-  EDIT_STAKING_REFLECTIONS: "Исправить заработок стейкинга",
+  EDIT_STAKING_REFLECTIONS: "Исправить вознаграждения в стейкинге",
   STAKED: "Добавлено в стейкинг",
   REWARDS_FROM: "Считать вознаграждения от",
   EDIT_WALLET: "Исправить настройки",
