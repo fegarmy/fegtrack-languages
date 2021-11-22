@@ -17,7 +17,7 @@ const LABELS = {
   REFLECTIONS: "Бонуси",
   EDIT_REFLECTIONS: "Налаштувати бонуси",
   EDIT_STAKING_REFLECTIONS: "Налаштувати бонуси стейкінга",
-  STAKED: "Додано у стейкінг",
+  STAKED: "Додано в стейкінг",
   REWARDS_FROM: "Рахувати бонуси від",
   EDIT_WALLET: "Змінити налаштування",
   SETTINGS: "Налаштування",
