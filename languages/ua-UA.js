@@ -21,13 +21,13 @@ const LABELS = {
   REWARDS_FROM: "Рахувати бонуси від",
   EDIT_WALLET: "Змінити налаштування",
   SETTINGS: "Налаштування",
-  THEME: "Обгортка",
+  THEME: "Тема",
   LANGUAGE: "Обрати мову",
   SINCE: "Від",
-  POOL_SHARE: "Частка у загальному пулі",
+  POOL_SHARE: "Частка в загальному пулі",
   UNCLAIMED: "Накопичено",
   COPY_NOTICE: "Зкопійовано",
-  WALLET_DESIGN: "Обгортка гаманця",
+  WALLET_DESIGN: "Обкладинка гаманця",
 }
 
 export {LABELS};
