@@ -14,7 +14,7 @@ const LABELS = {
   RED: "Blauw",
   BLUE: "Geel",
   YELLOW: "Groen",
-  GREEN: "Beloningen (Rewards? We don’t have a corresponding word for reflections in this context. You could also just keep calling it “reflections” in dutch,
+  GREEN: "Beloningen",
   REFLECTIONS:  but maybe changing it to rewards makes more sense to some people.)",
   EDIT_REFLECTIONS: "Bewerk Beloningen",
   EDIT_STAKING_REFLECTIONS: "Bewerk Staking Beloningen",
