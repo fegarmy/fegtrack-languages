@@ -19,8 +19,8 @@ const LABELS = {
   EDIT_REFLECTIONS: "Editar reflexões",
   EDIT_STAKING_REFLECTIONS: "Editar reflexões do depósito",
   STAKED: "Depositado",
-  REWARDS_FROM: "Prémios de (or ganhos de,
-  EDIT_WALLET:  hard to know without context)",
+  REWARDS_FROM: "Prémios de"
+  EDIT_WALLET:  "editar carteira",
   SETTINGS: "Editar carteira",
   THEME: "Configurações",
   LANGUAGE: "Configurações",

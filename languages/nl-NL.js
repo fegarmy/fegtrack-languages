@@ -15,7 +15,7 @@ const LABELS = {
   BLUE: "Geel",
   YELLOW: "Groen",
   GREEN: "Beloningen",
-  REFLECTIONS:  but maybe changing it to rewards makes more sense to some people.)",
+  REFLECTIONS:  "reflecties",
   EDIT_REFLECTIONS: "Bewerk Beloningen",
   EDIT_STAKING_REFLECTIONS: "Bewerk Staking Beloningen",
   STAKED: "Staked",
