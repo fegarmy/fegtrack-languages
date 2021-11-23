@@ -21,14 +21,14 @@ const LABELS = {
   STAKED: "Staked",
   REWARDS_FROM: "Beloningen Van",
   EDIT_WALLET: "Bewerk Wallet",
-  SETTINGS: "Instelingen",
-  THEME: "Instellingen",
-  LANGUAGE: "Thema",
-  SINCE: "Taal",
-  POOL_SHARE: "Sinds",
-  UNCLAIMED: "Pool Aandeel",
-  COPY_NOTICE: "Niet Opgeëist ",
-  WALLET_DESIGN: "Wallet Adres Gekopieerd Naar Klembord",
+  SETTINGS: "Instellingen",
+  THEME: "Thema",
+  LANGUAGE: "Taal",
+  SINCE: "Sinds",
+  POOL_SHARE: "Pool Aandeel",
+  UNCLAIMED: "Niet Opgeëist ",
+  COPY_NOTICE: "Wallet Adres Gekopieerd Naar Klembord",
+  WALLET_DESIGN: "Wallet Ontwerp",
 }
 
 export {LABELS};

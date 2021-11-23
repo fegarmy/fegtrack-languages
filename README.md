@@ -25,14 +25,15 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | en-ZA | English, South Africa | |
 | es-ES | Spanish, Spain | Done |
 | es-MX | Spanish, Mexico | Needs Update |
-| fa-IR | Persian | Needs Update |
-| fi-FI | Finnish, Finland | |
+| fa-IR | Persian | Done |
+| fi-FI | Finnish, Finland | Done |
 | fr-CA | French, Canada | |
 | fr-FR | French, France | Done |
 | he-IL | Hebrew, Israel | |
 | hi-IN | Hindi, India | |
 | hu-HU | Hungarian, Hungary | |
-| id-ID | Indonesian, Indonesia | |
+| id-ID | Indonesian, Indonesia | Done |
+| ig-NI | Igbo, Nigeria | Done |
 | it-IT | Italian, Italy | Done |
 | ja-JP | Japanese, Japan | Needs Update |
 | ja-ID | Javanese, Idonesia | done |
@@ -48,6 +49,7 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | ro-RO | Romanian, Romania | Done |
 | ru-RU | Russian, Russian Federation | Done |
 | sk-SK | Slovak, Slovakia | Done |
+| sl-SL | slovene, Slovenia | Done |
 | sv-SE | Swedish, Sweden | Done |
 | th-TH | Thai, Thailand | |
 | tr-TR | Turkish, Turkey | Needs Update |
