@@ -14,6 +14,8 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | Language Code | Language/Dialect | Status |
 | ------------- | -------- | ------ |
 | ar-SA | Arabic, Saudi Arabia | Done |
+| ba-BA | Balochie,Balochistan | Done |
+| ca-ES | Catalan, Spain | Done |
 | cs-CZ | Czech, Czech Republic | Done |
 | da-DK | Danish, Denmark | Done |
 | de-DE | German, Germany | Done |
@@ -39,6 +41,7 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | ja-ID | Javanese, Idonesia | done |
 | ko-KR | Korean, Republic of Korea | Needs Update |
 | ku-SR | Kurdish, Sorani | Done |
+| li-LI | Lithuania, Lithuania | Done |
 | nl-BE | Dutch, Belgium | Needs Update |
 | nl-NL | Dutch, Netherlands | Done |
 | no-NO | Norwegian, Norway | Done |
@@ -51,7 +54,7 @@ ADD_NEW_WALLET: "Добавить кошелек"
 | sk-SK | Slovak, Slovakia | Done |
 | sl-SL | slovene, Slovenia | Done |
 | sv-SE | Swedish, Sweden | Done |
-| th-TH | Thai, Thailand | |
+| th-TH | Thai, Thailand |  |
 | tr-TR | Turkish, Turkey | Needs Update |
 | ua-UA | Ukrainian, Ukraine | Done |
 | vn-VN | Vietnamese, Vietnam | Done |
