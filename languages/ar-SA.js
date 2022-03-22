@@ -15,7 +15,7 @@ const LABELS = {
   BLUE: "أزرق",
   YELLOW: "أصفر",
   GREEN: "أخضر",
-  REFLECTIONS: "المكافئات",
+  REFLECTIONS: "مكافئات",
   EDIT_REFLECTIONS: "تعديل المكافئات",
   EDIT_STAKING_REFLECTIONS: "تعديل مكافئات التكديس",
   STAKED: "تم تكديسة",
